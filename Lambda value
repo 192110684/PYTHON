@@ -1,0 +1,8 @@
+y = int(input("enter the number y:"))
+z = lambda x : x * y
+n=int(input("enter the n value"))
+print (z(n))
+>>>>> output:-
+enter the number y:8
+enter the n value :6
+48
